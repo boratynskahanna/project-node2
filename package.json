@@ -1,0 +1,23 @@
+{
+  "name": "projectnode2",
+  "version": "0.6.4",
+  "description": "jimp",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:boratynskahanna/project-node2.git"
+  },
+  "author": "hania",
+  "bugs": {
+    "url": "https://github.com/boratynskahanna/project-node2/issues"
+  },
+  "homepage": "https://github.com/boratynskahanna/project-node2#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "jimp": "^0.6.4"
+  }
+}
